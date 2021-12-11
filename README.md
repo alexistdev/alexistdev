@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alexsander Hendra Wijaya
 
-I am a student at Infomartic And Bussiness Darmajaya and also a freelance developer. Right now i am currently focusing on developing web-based applications and android-based applications. And here is some information about myself :
+I am a student of Infomartic And Bussiness Darmajaya and also a freelance developer. Right now i am currently focusing on developing web-based applications and android-based applications. And here is some information about myself :
 
 - 🔭 I’m currently working on Freelance
 - 🌱 I’m currently learning Kotlin and Android Studio

@@ -1,13 +1,13 @@
-### Hi there 👋 I'm Alexsander Hendra Wijaya
+### Hi there 👋 
 
-I am a freelance developer. Right now i am currently focusing on developing web-based applications and android-based applications. And here is some information about myself :
+I'm Alexsander Hendra Wijaya, a freelance developer based in Bandarlampung, Indonesia.
 
 - 🔭 I’m currently working on Freelance.
-- 🌱 I’m currently learning Kotlin and Android Studio.
-- 🥅 2022 Goal : Continuing my postgraduate studies.
+- 🌱 I use daily java, kotlin, php, and javascript.
+- 📬 Reach me asap on: <a href="https://www.instagram.com/alexistdev.18/">instagram</a>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default" />
 
 
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=alexistdev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=alexistdev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />

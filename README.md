@@ -6,7 +6,7 @@ I'm Alexsander Hendra Wijaya, a freelance developer based in Bandarlampung, Indo
 - 🌱 I use daily java, kotlin, php, and javascript.
 - 📬 Reach me asap on: <a href="https://www.instagram.com/alexistdev.18/">instagram</a>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexistdev&theme=default" />
 
 
 

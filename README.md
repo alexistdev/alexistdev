@@ -26,7 +26,6 @@ I'm Alexsander Hendra Wijaya, a freelance developer based in Bandarlampung, Indo
             <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Codeigniter" **alt="codeigniter" width="80" height="80"/>
             </td>
-
         </tr>
     </tbody>
 </table>

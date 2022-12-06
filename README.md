@@ -5,7 +5,11 @@ I'm Alexsander Hendra Wijaya, a freelance developer based in Bandarlampung, Indo
 - 🔭 I’m currently working on Freelance.
 - 🌱 I use java, kotlin, php, and javascript.
 - 📬 Reach me asap on: <a href="https://www.instagram.com/alexistdev.18/">instagram</a> and <a href="https://twitter.com/alexistdev">Twitter</a>
-
+<div id="badges">
+     <img src="https://komarev.com/ghpvc/?username=alexistdev&style=flat-square&color=blue" alt=""/>
+    </a>
+  </div>
+  
 ---
 ### :hammer_and_wrench: Languages & Framework:
 <table>

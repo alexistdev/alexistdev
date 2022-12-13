@@ -40,7 +40,7 @@ I'm Alexsander Hendra Wijaya, a freelance developer based in Bandarlampung, Indo
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alexistdev&theme=dark)](https://git.io/streak-stats)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alexistdev?theme=dark&cardType=github)](https://git.io/awesome-stats-card)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexistdev&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexistdev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

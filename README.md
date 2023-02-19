@@ -6,7 +6,7 @@
 
 I'm Alexsander Hendra Wijaya, a freelance developer based in Bandarlampung, Indonesia.
 
-- 🔭 I’m currently working on Freelance.
+- 🔭 I’m currently working as Java Software Engineer.
 - 🌱 I use java, kotlin, php, and javascript.
 - 📬 Reach me asap on: <a href="https://www.instagram.com/alexistdev.18/">instagram</a> and <a href="https://twitter.com/alexistdev">Twitter</a>
 

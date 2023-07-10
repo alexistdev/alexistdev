@@ -4,7 +4,7 @@
   </div>
 ### Hi there 👋 
 
-I'm Alexsander Hendra Wijaya, a freelance developer based in Bandarlampung, Indonesia.
+I'm Alexsander Hendra Wijaya,
 
 - 🔭 I’m currently working as Java Software Engineer.
 - 🌱 I use java, kotlin, php, and javascript.

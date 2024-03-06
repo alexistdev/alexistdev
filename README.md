@@ -24,17 +24,21 @@ I'm Alexsander Hendra Wijaya,
             <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="80" height="80" />
             </td>
-            <td>
-            <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/laravel.svg" title="Laravel" **alt="laravel" width="80" height="80"/>
-          </td>
+               <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg" title="Typescript" alt="Typescript" width="80" height="80" /></td>
             <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Codeigniter" **alt="codeigniter" width="80" height="80"/>
             </td>
         </tr>
          <tr>
+          <td>
+            <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/laravel.svg" title="Laravel" **alt="laravel" width="80" height="80"/>
+          </td>
               <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/spring.svg" title="Spring" alt="Spring" width="80" height="80" /></td>
               <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" title="NodeJS" alt="NodeJS" width="80" height="80" /></td>
               <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/angular.svg" title="Angular" alt="Angular" width="80" height="80" /></td>
+              <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" title="MySQL" alt="MySQL" width="80" height="80" /></td>
+              <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80" /></td>
+              <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg" title="MongoDB" alt="MongoDB" width="80" height="80" /></td>
          </tr>
     </tbody>
 </table>

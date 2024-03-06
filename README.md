@@ -16,8 +16,8 @@ I'm Alexsander Hendra Wijaya,
     <tbody>
         <tr>
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/></td>
-          <td>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/> </td>
-          <td><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" **alt="Android" width="80" height="80"/></td>
+               <td>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/> </td>
+               <td><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" **alt="Android" width="80" height="80"/></td>
             <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="Php" **alt="Php" width="80" height="80" />
           </td>
@@ -25,12 +25,17 @@ I'm Alexsander Hendra Wijaya,
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="80" height="80" />
             </td>
             <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" **alt="laravel" width="80" height="80"/>
+            <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/laravel.svg" title="Laravel" **alt="laravel" width="80" height="80"/>
           </td>
             <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" title="Codeigniter" **alt="codeigniter" width="80" height="80"/>
             </td>
         </tr>
+         <tr>
+              <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/spring.svg" title="Spring" alt="Spring" width="80" height="80" /></td>
+              <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" title="NodeJS" alt="NodeJS" width="80" height="80" /></td>
+              <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/angular.svg" title="Angular" alt="Angular" width="80" height="80" /></td>
+         </tr>
     </tbody>
 </table>
 

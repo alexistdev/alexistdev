@@ -7,7 +7,7 @@
 I'm Alexsander Hendra Wijaya,
 
 - 🔭 I’m currently working as Java Software Engineer.
-- 🌱 I use java, kotlin, php, and javascript.
+- 🌱 I use java, kotlin, php, javascript and Typescript.
 - 📬 Reach me asap on: <a href="https://www.instagram.com/alexistdev.18/">instagram</a> and <a href="https://twitter.com/alexistdev">Twitter</a>
 
 ---

@@ -26,7 +26,7 @@ I'm Alexsander Hendra Wijaya,
             </td>
                <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg" title="Typescript" alt="Typescript" width="80" height="80" /></td>
             <td style="background-color: white;">
-            <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/rust.svg" title="Rust" alt="Rust" width="80" height="80"/>
+            <img src="https://repository-images.githubusercontent.com/246612662/7e883780-63dd-11ea-9608-f6398726f9f4" title="Rust" alt="Rust"  height="80"/>
             </td>
         </tr>
          <tr>
@@ -38,7 +38,7 @@ I'm Alexsander Hendra Wijaya,
               <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/angular.svg" title="Angular" alt="Angular" width="80" height="80" /></td>
               <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" title="MySQL" alt="MySQL" width="80" height="80" /></td>
               <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80" /></td>
-              <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg" title="MongoDB" alt="MongoDB" width="80" height="80" /></td>
+              <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg" title="MongoDB" alt="MongoDB"  /></td>
          </tr>
     </tbody>
 </table>

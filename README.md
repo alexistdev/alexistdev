@@ -6,7 +6,6 @@
 
 I'm Alexsander Hendra Wijaya,
 
-- 🔭 I’m currently working as Data Engineer.
 - 🌱 I use java, kotlin, php, javascript, Typescript, Rust and Go.
 - 📬 Reach me asap on: <a href="https://www.instagram.com/alexistdev.18/">instagram</a> and <a href="https://twitter.com/alexistdev">Twitter</a>
 

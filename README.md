@@ -36,9 +36,9 @@ I'm Alexsander Hendra Wijaya,
               <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/spring.svg" title="Spring" alt="Spring" width="80" height="80" /></td>
               <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" title="NodeJS" alt="NodeJS" width="80" height="80" /></td>
               <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/angular.svg" title="Angular" alt="Angular" width="80" height="80" /></td>
-              <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" title="MySQL" alt="MySQL" width="80" height="80" /></td>
+              <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/react.svg" title="React" alt="React"  width="80" height="80" /></td>
               <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80" /></td>
-              <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg" title="MongoDB" alt="MongoDB"  /></td>
+                <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" title="MySQL" alt="MySQL"  /></td>
          </tr>
     </tbody>
 </table>

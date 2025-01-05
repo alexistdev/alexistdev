@@ -25,7 +25,7 @@ I'm Alexsander Hendra Wijaya,
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="80" height="80" />
             </td>
                <td><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg" title="Typescript" alt="Typescript" width="80" height="80" /></td>
-            <td>
+            <td style="background-color: white;">
             <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/rust.svg" title="Rust" alt="Rust" width="80" height="80"/>
             </td>
         </tr>

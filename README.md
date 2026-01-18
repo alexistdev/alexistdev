@@ -38,6 +38,7 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in a variety of
 
 ---
 
+<!--
 ## :fire: My GitHub Stats
 
 <table>
@@ -51,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate developer skilled in a variety of
       <img src="https://github-readme-stats.vercel.app/api?username=alexistdev&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats"/>
     </td>
   </tr>
-</table>
+</table>-->
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexistdev&show_icons=true&theme=dark)

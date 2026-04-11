@@ -19,19 +19,12 @@
 
 <div align="center">
   <h2>:fire: My GitHub Stats</h2>
-  <p>Here are some statistics from my repositories, including the stars (bintang)!</p>
+  <p>Here are some statistics from my repositories</p>
   
-  <a href="https://github.com/alexistdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexistdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=alexistdev&theme=radical" alt="GitHub Streak"/>
   </a>
   <br/>
-  <br/>
-  <a href="https://github.com/alexistdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexistdev&theme=radical&layout=compact&langs_count=8" alt="Top Languages"/>
-  </a>
 </div>
 
 ---

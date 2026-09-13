@@ -34,8 +34,8 @@
   <p>Aggregated across all my public repositories</p>
 
   <p>
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Falexistdev&query=%24.stars&label=Total%20Stars&color=ff1e56&labelColor=1a1b27&style=for-the-badge&logo=github" alt="Total Stars"/>
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Falexistdev&query=%24.forks&label=Total%20Forks&color=c724b1&labelColor=1a1b27&style=for-the-badge&logo=git" alt="Total Forks"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Falexistdev%2Falexistdev%2Fmain%2Fstats.json&query=%24.stars&label=Total%20Stars&color=ff1e56&labelColor=1a1b27&style=for-the-badge&logo=github" alt="Total Stars"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Falexistdev%2Falexistdev%2Fmain%2Fstats.json&query=%24.forks&label=Total%20Forks&color=c724b1&labelColor=1a1b27&style=for-the-badge&logo=git" alt="Total Forks"/>
     <img src="https://img.shields.io/github/followers/alexistdev?label=Followers&color=7b2ff7&labelColor=1a1b27&style=for-the-badge&logo=github" alt="Followers"/>
   </p>
 </div>

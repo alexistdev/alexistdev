@@ -43,6 +43,22 @@
 ---
 
 <div align="center">
+  <h2>:trophy: Top 5 Starred Repositories</h2>
+  <p>
+<!-- TOP5:START -->
+    <a href="https://github.com/alexistdev/Facevoting"><img src="https://img.shields.io/badge/1.%20Facevoting-26%20%E2%98%85-ff1e56?style=for-the-badge&logo=github&labelColor=1a1b27" alt="Facevoting"/></a>
+    <a href="https://github.com/alexistdev/manthabill"><img src="https://img.shields.io/badge/2.%20manthabill-13%20%E2%98%85-ff1e56?style=for-the-badge&logo=github&labelColor=1a1b27" alt="manthabill"/></a>
+    <a href="https://github.com/alexistdev/vndrosport"><img src="https://img.shields.io/badge/3.%20vndrosport-11%20%E2%98%85-ff1e56?style=for-the-badge&logo=github&labelColor=1a1b27" alt="vndrosport"/></a>
+    <br/>
+    <a href="https://github.com/alexistdev/aerotravel"><img src="https://img.shields.io/badge/4.%20aerotravel-4%20%E2%98%85-ff1e56?style=for-the-badge&logo=github&labelColor=1a1b27" alt="aerotravel"/></a>
+    <a href="https://github.com/alexistdev/mylearning"><img src="https://img.shields.io/badge/5.%20mylearning-3%20%E2%98%85-ff1e56?style=for-the-badge&logo=github&labelColor=1a1b27" alt="mylearning"/></a>
+<!-- TOP5:END -->
+  </p>
+</div>
+
+---
+
+<div align="center">
   <h2>:hammer_and_wrench: Technologies & Frameworks</h2>
 </div>
 

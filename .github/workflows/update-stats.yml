@@ -37,14 +37,53 @@ jobs:
           rm counts.tsv
           cat stats.json
 
-      - name: Commit stats.json
+      - name: Build top 5 starred repositories
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          set -euo pipefail
+
+          # Both markers must exist, otherwise README would be left half-edited
+          grep -q '<!-- TOP5:START -->' README.md
+          grep -q '<!-- TOP5:END -->' README.md
+
+          gh api --paginate "users/${OWNER}/repos?per_page=100&type=owner" > repos.json
+
+          # Forks are excluded, ties are broken by repository name
+          jq -rs '
+            add
+            | map(select(.fork | not))
+            | sort_by(-.stargazers_count, .name)
+            | .[0:5]
+            | to_entries[]
+            | ("\(.key + 1). \(.value.name)" | @uri | gsub("-"; "--") | gsub("_"; "__")) as $label
+            | "    <a href=\"\(.value.html_url)\"><img src=\"https://img.shields.io/badge/\($label)-\(.value.stargazers_count)%20%E2%98%85-ff1e56?style=for-the-badge&logo=github&labelColor=1a1b27\" alt=\"\(.value.name)\"/></a>"
+              + (if .key == 2 then "\n    <br/>" else "" end)
+          ' repos.json > top5.html
+          rm repos.json
+
+          if [ ! -s top5.html ]; then
+            echo "No repositories returned, keeping previous top 5"
+            exit 1
+          fi
+
+          awk '
+            /<!-- TOP5:START -->/ { print; while ((getline line < "top5.html") > 0) print line; skip = 1; next }
+            /<!-- TOP5:END -->/   { skip = 0 }
+            !skip                 { print }
+          ' README.md > README.tmp
+          mv README.tmp README.md
+          rm top5.html
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add stats.json
+          git add stats.json README.md
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
-          git commit -m "chore(stats): update stars and forks"
+          git commit -m "chore(stats): update stats and top 5 repositories"
           git push
